@@ -1,0 +1,20 @@
+.flex-column img {
+    width: 600px;
+    height: auto;
+}
+div{
+    display:table-cell;
+}
+.flex-column .logo-noval {
+    width: 170px;
+
+    height: auto;
+    border-radius: 50%;
+}
+
+.flex-column .icon {
+    width: 30px;
+    height: auto;
+
+}
+
