@@ -51,9 +51,7 @@ function App() {
             <div className="col-12 d-flex justify-content-center">
               <input type="text" placeholder='location' value={data.location} onChange={e => setdata({ ...data, location: e.target.value })} />
             </div>
-            <div className="col-12 d-flex justify-content-center">
-              <input type="text" placeholder='facebook' value={data.facebook} onChange={e => setdata({ ...data, facebook: e.target.value })} />
-            </div>
+           
 
 
           </div>
